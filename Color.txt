@@ -1,4 +1,4 @@
-Rainbow and unicons
+Rainbow and unicons and ponies
 Blue
 Red
 Yellow
@@ -6,5 +6,6 @@ Purple
 Orange
 Green
 Pink
-White.
+
 Unicon.
+Ponies
